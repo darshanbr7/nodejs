@@ -1,0 +1,1 @@
+require("http").createServer((req,res)=>{res.end("server succefully running")}).listen(3000);

@@ -1,0 +1,12 @@
+   jwt   -> json web token
+   it is a 3rd party node module,
+
+   // instalation;
+   --  npm i jsonwebtoken
+
+   structure of the jwt
+      it contain 3 parts 
+        1) header
+        2) payload
+        3) signature,
+        
